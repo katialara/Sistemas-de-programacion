@@ -1,0 +1,13 @@
+C:\Users\pauli\source\repos\SistemasProgramacionRFCVB\SistemasProgramacionRFCVB\obj\Debug\SistemasProgramacionRFCVB.vbprojAssemblyReference.cache
+C:\Users\pauli\source\repos\SistemasProgramacionRFCVB\SistemasProgramacionRFCVB\obj\Debug\SistemasProgramacionRFCVB.Form1.resources
+C:\Users\pauli\source\repos\SistemasProgramacionRFCVB\SistemasProgramacionRFCVB\obj\Debug\SistemasProgramacionRFCVB.GenerarRFC.resources
+C:\Users\pauli\source\repos\SistemasProgramacionRFCVB\SistemasProgramacionRFCVB\obj\Debug\SistemasProgramacionRFCVB.Resources.resources
+C:\Users\pauli\source\repos\SistemasProgramacionRFCVB\SistemasProgramacionRFCVB\obj\Debug\SistemasProgramacionRFCVB.vbproj.GenerateResource.cache
+C:\Users\pauli\source\repos\SistemasProgramacionRFCVB\SistemasProgramacionRFCVB\obj\Debug\SistemasProgramacionRFCVB.vbproj.CoreCompileInputs.cache
+C:\Users\pauli\source\repos\SistemasProgramacionRFCVB\SistemasProgramacionRFCVB\bin\Debug\SistemasProgramacionRFCVB.exe.config
+C:\Users\pauli\source\repos\SistemasProgramacionRFCVB\SistemasProgramacionRFCVB\bin\Debug\SistemasProgramacionRFCVB.exe
+C:\Users\pauli\source\repos\SistemasProgramacionRFCVB\SistemasProgramacionRFCVB\bin\Debug\SistemasProgramacionRFCVB.pdb
+C:\Users\pauli\source\repos\SistemasProgramacionRFCVB\SistemasProgramacionRFCVB\bin\Debug\SistemasProgramacionRFCVB.xml
+C:\Users\pauli\source\repos\SistemasProgramacionRFCVB\SistemasProgramacionRFCVB\obj\Debug\SistemasProgramacionRFCVB.exe
+C:\Users\pauli\source\repos\SistemasProgramacionRFCVB\SistemasProgramacionRFCVB\obj\Debug\SistemasProgramacionRFCVB.xml
+C:\Users\pauli\source\repos\SistemasProgramacionRFCVB\SistemasProgramacionRFCVB\obj\Debug\SistemasProgramacionRFCVB.pdb

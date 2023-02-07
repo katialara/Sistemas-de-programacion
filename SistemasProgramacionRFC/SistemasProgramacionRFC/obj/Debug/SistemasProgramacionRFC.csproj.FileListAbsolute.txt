@@ -1,0 +1,11 @@
+C:\Users\pauli\source\repos\SistemasProgramacionRFC\SistemasProgramacionRFC\bin\Debug\SistemasProgramacionRFC.exe.config
+C:\Users\pauli\source\repos\SistemasProgramacionRFC\SistemasProgramacionRFC\bin\Debug\SistemasProgramacionRFC.exe
+C:\Users\pauli\source\repos\SistemasProgramacionRFC\SistemasProgramacionRFC\bin\Debug\SistemasProgramacionRFC.pdb
+C:\Users\pauli\source\repos\SistemasProgramacionRFC\SistemasProgramacionRFC\obj\Debug\SistemasProgramacionRFC.csprojAssemblyReference.cache
+C:\Users\pauli\source\repos\SistemasProgramacionRFC\SistemasProgramacionRFC\obj\Debug\SistemasProgramacionRFC.Properties.Resources.resources
+C:\Users\pauli\source\repos\SistemasProgramacionRFC\SistemasProgramacionRFC\obj\Debug\SistemasProgramacionRFC.csproj.GenerateResource.cache
+C:\Users\pauli\source\repos\SistemasProgramacionRFC\SistemasProgramacionRFC\obj\Debug\SistemasProgramacionRFC.csproj.CoreCompileInputs.cache
+C:\Users\pauli\source\repos\SistemasProgramacionRFC\SistemasProgramacionRFC\obj\Debug\SistemasProgramacionRFC.exe
+C:\Users\pauli\source\repos\SistemasProgramacionRFC\SistemasProgramacionRFC\obj\Debug\SistemasProgramacionRFC.pdb
+C:\Users\pauli\source\repos\SistemasProgramacionRFC\SistemasProgramacionRFC\obj\Debug\SistemasProgramacionRFC.Form1.resources
+C:\Users\pauli\source\repos\SistemasProgramacionRFC\SistemasProgramacionRFC\obj\Debug\SistemasProgramacionRFC.Formularios.GenerarRFC.resources
